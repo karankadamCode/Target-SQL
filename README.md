@@ -1,3 +1,5 @@
+Overview:
+
 This project involved analyzing a dataset containing customer, order, payment, and shipping information to derive actionable insights and make recommendations for business improvement. The project covered various aspects, including order trends, seasonality, payment patterns, delivery time, freight costs, and customer satisfaction.
 
 Key Highlights:
